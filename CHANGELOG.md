@@ -1,5 +1,8 @@
 Changelog
 --
+Latest version:
+1.1.3
+
 Version 1.0.0
 
     -Literally created the thing
@@ -21,12 +24,21 @@ Version 1.1.0
     bugs
     -linecache inserts extra line when comparing to input password
     
-Sub Version 1.1.1
+SV 1.1.1
     
     New login system created
     linecache bug fixed with .rstrip('\n')
     
-Latest Version
---
-1.1.1
+SV 1.1.2
+
+    defined a new function
+    readuserdata(user,data)
+    will take user and data (line number) and returns a string of that line number
+
+SV 1.1.3
+    
+    defined a new non-functional function
+    modifyuserdata(user,data)
+    plan to add more in the future
+
 
