@@ -17,3 +17,16 @@ Version 1.1.0
 
     -Modifying database to have seperate .txt files store user data
     -Old match line by line system removed due to confusion and lack of upgradability
+    
+    bugs
+    -linecache inserts extra line when comparing to input password
+    
+Sub Version 1.1.1
+    
+    New login system created
+    linecache bug fixed with .rstrip('\n')
+    
+Latest Version
+--
+1.1.1
+
