@@ -40,5 +40,10 @@ SV 1.1.3
     defined a new non-functional function
     modifyuserdata(user,data)
     plan to add more in the future
+    
+SV 1.1.4
+    
+    unhashed the username
+
 
 
