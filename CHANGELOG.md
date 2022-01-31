@@ -1,7 +1,7 @@
 # Changelog
 
 ## Latest version:
-**1.1.3**
+**1.1.6**
 
 ### Version 1.0.0
 
@@ -50,6 +50,7 @@ SV 1.1.5
     Added new library getpass
     password now wont show when typing it in
     fixed up the code and messed around with the modifydata() function to no avail :(
-
-
-
+    
+SV 1.1.6
+    
+    login() will now try and throw an exeption when login fails. will run login() again
