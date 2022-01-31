@@ -44,6 +44,12 @@ SV 1.1.3
 SV 1.1.4
     
     unhashed the username
+    
+SV 1.1.5
+
+    Added new library getpass
+    password now wont show when typing it in
+    fixed up the code and messed around with the modifydata() function to no avail :(
 
 
 
